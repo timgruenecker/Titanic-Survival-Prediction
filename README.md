@@ -13,3 +13,13 @@ cabin: Kabinenbezeichnung - hat viele fehlende Werte (also selbst wenn wichtig w
 embarked: Abfahrthafen: C = Cherbourg (Frankreich), Q = Queenstown (Irland), S = Southampton (England)
 
 In der Excel wo CSV importiert ist, ist z.B. Age 285 28.5, also kein ausreißer
+
+
+Aussagekräftigste Features:
+Sex (Frauen überleben 70%, männer nur 15), 
+Fare bzw. Pc Class (je teurer desto höher survival),
+
+Weniger aussagekräftig, aber nicht random
+Embarked
+Age
+Sibsp
